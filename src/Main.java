@@ -9,6 +9,9 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         int taskNum = scanner.nextInt();
 
+
+
+
         switch(taskNum) {
             case 1:
                 // TODO: uncomment for Task1

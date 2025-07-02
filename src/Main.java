@@ -1,4 +1,4 @@
-// C:/Users/mihai/Desktop/licenta/POO_Lab/src/Original/Main.java
+// C:/Users/MihaiLaptop/Desktop/licenta/POO_Lab/src/Original/Main.java
 
 import java.util.*;
 
@@ -39,7 +39,7 @@ public class Main {
 }
 
 
-// C:/Users/mihai/Desktop/licenta/POO_Lab/src/Original/Complex.java
+// C:/Users/MihaiLaptop/Desktop/licenta/POO_Lab/src/Original/Complex.java
 
 
 

@@ -35,5 +35,7 @@ public class Main {
         c3.setReal(6);
         c3.setImaginary(-4);
         System.out.println(c3.getReal() + " " + c3.getImaginary());
+
+//        test
     }
 }
